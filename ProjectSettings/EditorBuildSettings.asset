@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Quest.unity
+    guid: 9ca10828555d5fa4b875d133250bb328
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 44c08917b1e6cd24f87f1b1ce273a681, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 63831222b7bbde44685458791db18794, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: a9ed0a5fc16967a4787d62227d97e393, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c721b07f9f96d9a4a831bee4ac28d9ea, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d6c85181dbc10734cb037f18205968f0, type: 2}

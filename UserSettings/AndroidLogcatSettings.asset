@@ -1,17 +1,125 @@
 {
-    "m_SelectedDeviceId": "M5AIKN006467A9J",
-    "m_SelectedPackage": {
-        "deviceId": "",
-        "name": "",
-        "processId": 0,
+    "m_SelectedDeviceId": "2G0YC1ZF7707TP",
+    "m_SelectedProcess": {
+        "deviceId": "2G0YC1ZF7707TP",
+        "name": "com.DefaultCompany.PC_Quest_WebRTC_Test",
+        "processId": 29388,
         "exited": false
     },
     "m_SelectedPriority": 0,
-    "m_KnownPackagesForSerialization": [
+    "m_KnownProcessesForSerialization": [
         {
-            "deviceId": "M5AIKN006467A9J",
-            "name": "com.DefaultCompany.AR_SCreenStreamingd",
-            "processId": 20428,
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.WebRTC_Quest",
+            "processId": 7228,
+            "exited": true
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.oculus.shellenv",
+            "processId": 4428,
+            "exited": false
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.WebRTC_Quest",
+            "processId": 8155,
+            "exited": true
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.QuestTestWebRTC",
+            "processId": 13487,
+            "exited": true
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.QuestTestWebRTC",
+            "processId": 15985,
+            "exited": true
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.QuestTestWebRTC",
+            "processId": 22741,
+            "exited": false
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.PC_Quest_WebRTC_Test",
+            "processId": 19092,
+            "exited": false
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.PC_Quest_WebRTC_Test",
+            "processId": 20169,
+            "exited": false
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.PC_Quest_WebRTC_Test",
+            "processId": 20687,
+            "exited": false
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.PC_Quest_WebRTC_Test",
+            "processId": 21714,
+            "exited": false
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.PC_Quest_WebRTC_Test",
+            "processId": 23048,
+            "exited": false
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.PC_Quest_WebRTC_Test",
+            "processId": 23430,
+            "exited": false
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.PC_Quest_WebRTC_Test",
+            "processId": 24011,
+            "exited": false
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.PC_Quest_WebRTC_Test",
+            "processId": 25054,
+            "exited": false
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.PC_Quest_WebRTC_Test",
+            "processId": 25739,
+            "exited": false
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.PC_Quest_WebRTC_Test",
+            "processId": 26577,
+            "exited": false
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.PC_Quest_WebRTC_Test",
+            "processId": 27664,
+            "exited": false
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.PC_Quest_WebRTC_Test",
+            "processId": 28656,
+            "exited": false
+        },
+        {
+            "deviceId": "2G0YC1ZF7707TP",
+            "name": "com.DefaultCompany.PC_Quest_WebRTC_Test",
+            "processId": 29388,
             "exited": false
         }
     ],
@@ -47,8 +155,11 @@
             }
         ]
     },
+    "m_ExtraWindowState": {
+        "Type": 0,
+        "Height": 0.0
+    },
     "m_MemoryViewerState": {
-        "MemoryWindowHeight": 300.0,
         "MemoryWindowWidth": 170.0,
         "MemoryTypeEnabled": [
             true,
@@ -63,9 +174,35 @@
             true
         ],
         "MemoryGroup": 2,
-        "Behavior": 0
+        "AutoCapture": true
     },
-    "m_Filter": "===",
-    "m_FilterIsRegularExpression": false,
-    "m_SymbolPaths": []
+    "m_FilterOptions": {
+        "m_Filter": "===",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    },
+    "m_InputSettings": {
+        "ShiftModifier": false,
+        "SendText": "",
+        "PosixKillSignal": 0,
+        "TargetProcess": {
+            "deviceId": "",
+            "name": "",
+            "processId": 0,
+            "exited": false
+        }
+    },
+    "m_AutoScroll": 0
 }
